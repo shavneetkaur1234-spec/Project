@@ -1,0 +1,15 @@
+
+.header{
+    background-color: lightblue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #111;
+    width: fit-content;
+}
+.btn{
+    background-color: lightcoral;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #111;
+    width: fit-content;
+}

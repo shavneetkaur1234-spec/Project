@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const App = () => {
   return (
     <>                                                
@@ -7,9 +8,16 @@ const App = () => {
       <h1 id='child1'></h1>
       <h2 id='child2'></h2>
     </div>
-    <div id='mom'></div>
+    <div id='mom'>
+    </div>
     </>
   )
 }
 
-export default App
+// export default App
+
+// function App(){
+//   return <h1>hi</h1>
+// }
+// export default App
+

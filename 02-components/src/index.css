@@ -1,0 +1,12 @@
+.Card{
+  background-color: lightcoral;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+}
+.des{
+  background-color: rgb(128, 240, 135);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+}
